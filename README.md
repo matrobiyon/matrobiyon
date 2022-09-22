@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matrobiyon
 - 👀 I’m interested in programming, medicine and football 🔥
-- 🌱 I’m currently learning Java and Flask🙃
+- 🌱 Currently, I’m  learning Java and Flask🙃
 - 💞️ I’m looking to collaborate with biggest companies (TJK) ❤️ 
 - 📫 How to reach me +992933063533
 
